@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/potvrda/SOUpdatePotvrda.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/klijent/SOGetAllKlijent.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/cenovnik/SOUpdateCen.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/marka/SOGetAllMarka.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/AbstractSO.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/trotinet/SODeleteTrotinet.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/trotinet/SOGetAllTrotinet.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/thread/ClientThread.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/stavka/SOGetAllStavka.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/potvrda/SOAddPotvrda.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/potvrda/SOGetAllPotvrda.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/trotinet/SOUpdateTrotinet.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/thread/ThreadServer.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/login/SOLogin.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/stavka/SOUpdateStavka.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/stavka/SOAddStavka.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/trotinet/SOAddTrotinet.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/cenovnik/SOAddCen.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/cenovnik/SOGetAllCen.java</file>
+            <file>file:/C:/ps/New%20Folder/ServerET/src/so/prodavac/SOGetAllProdavac.java</file>
+        </group>
+    </open-files>
+</project-private>
